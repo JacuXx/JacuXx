@@ -3,5 +3,5 @@
 
 
 <h1 align="center">
-  JacuXx 🔥 !
+  JacuXx <img style="width: 50px; vertical-align: middle;" src="https://raw.githubusercontent.com/JacuXx/JacuXx/e5d75a92c48f950dc5365cfe5ff1c96de5264eb2/TokenBrandedMoe.svg" alt="Logo de JacuXx"> !
 </h1>
