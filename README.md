@@ -8,4 +8,4 @@
   <img style="width: 30px; vertical-align: middle;" src="https://raw.githubusercontent.com/JacuXx/JacuXx/f7f4bc31d9b0619891f080c64858564b76613ab6/TokenBrandedMoe-cropped.svg" alt="Logo de JacuXx">
 </h1>
 
-![Banner]([https://github.com/JacuXx/JacuXx/blob/main/jACUxX%20(1080%20x%20200%20px).png?raw=true](https://github.com/JacuXx/JacuXx/blob/main/jACUxX%20(1080%20x%20200%20px)(1).png?raw=true))
+![Banner](https://github.com/JacuXx/JacuXx/blob/main/jACUxX%20(1080%20x%20200%20px)(1).png?raw=true)
