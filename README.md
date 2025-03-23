@@ -7,7 +7,7 @@
 
 ---
 
-<h2 align="center"><strong>Hello! 🇲🇽 I'm Alan Reynoso</strong></h2>
+<h2 align="center">Hello! 🇲🇽 I'm Alan Reynoso</h2>
 
 ---
 
