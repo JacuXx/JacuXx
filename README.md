@@ -3,5 +3,7 @@
 
 
 <h1 align="center">
-  JacuXx <img style="width: 30px; vertical-align: middle;" src="https://raw.githubusercontent.com/JacuXx/JacuXx/f7f4bc31d9b0619891f080c64858564b76613ab6/TokenBrandedMoe-cropped.svg" alt="Logo de JacuXx"> !
+  <span style="color: #1A5C80;">JacuXx</span> 
+  <img style="width: 30px; vertical-align: middle;" src="https://raw.githubusercontent.com/JacuXx/JacuXx/f7f4bc31d9b0619891f080c64858564b76613ab6/TokenBrandedMoe-cropped.svg" alt="Logo de JacuXx"> !
 </h1>
+
