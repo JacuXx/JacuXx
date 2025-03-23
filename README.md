@@ -7,5 +7,5 @@
 
 ---
 
-<p align="center"><strong>Namaste 🙏 I'm Joshua Thadi</strong></p>
+<p align="center"><strong>Hello! 🙏 I'm Alan Reynoso</strong></p>
 
