@@ -15,23 +15,11 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JacuX&style=flat-square&color=blue)
 
-<div style="display:flex; align-items:center; justify-content:space-between;">
+  
+![Banner](https://github.com/JacuXx/JacuXx/blob/main/about-me.gif?raw=true)
 
-<div>
 
-- 🌟 **Began the Journey with Software Development in ASP.NET MVC**
-- 💻 I work on Front-end development and web designing when I am bored while focusing on Data Science and AI/ML  
-- 🎓 I am currently pursuing a degree in Computer Science  
-- 🔧 I worked on .Net Framework and have hands-on experience in Full Stack  
-- 💬 Ask me about Microsoft .Net Framework, Full Stack Development, Python  
-- 🤖 Interest in Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Automation  
-- 🎯 I only like perfection  
 
-</div>
-
-<img src="https://TU-URL-DE-GIF.gif" alt="coding" width="300"/>
-
-</div>
 
 ---
 
