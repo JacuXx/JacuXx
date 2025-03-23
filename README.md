@@ -15,8 +15,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JacuX&style=flat-square&color=blue)
 
-  
-<img src="https://github.com/JacuXx/JacuXx/blob/main/about-me.gif?raw=true" width="250" />
+
+![Banner]([https://github.com/JacuXx/JacuXx/blob/main/banner-name.png?raw=true](https://github.com/JacuXx/JacuXx/blob/main/about-me.gif?raw=true))
 
 
 
