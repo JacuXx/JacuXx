@@ -7,4 +7,5 @@
 
 ---
 
-**Namaste 🙏 I'm Joshua Thadi**
+<p align="center"><strong>Namaste 🙏 I'm Joshua Thadi</strong></p>
+
