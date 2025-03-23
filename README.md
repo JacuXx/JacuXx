@@ -9,7 +9,7 @@
 
 <h2 align="center">Hello! 🇲🇽 I'm Alan Reynoso</h2>
 
----
+
 
 ## 📌 About Me
 
