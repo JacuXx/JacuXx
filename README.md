@@ -13,7 +13,7 @@
 
 ## 📌 About Me
 
-![Profile Views](https://komarev.com/ghpvc/?username=TU_USUARIO&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=JacuX&style=flat-square&color=blue)
 
 <div style="display:flex; align-items:center; justify-content:space-between;">
 
