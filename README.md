@@ -22,8 +22,6 @@
 ## 🚀 Iniciando con Liquid y Shopify
 Comencé mi viaje dominando **Liquid**, el motor de plantillas de **Shopify**, creando experiencias personalizadas y escalables para e-commerce.
 
----
-
 ## 💻 Experiencia Técnica
 Tengo una base sólida en:
 
@@ -33,7 +31,6 @@ Tengo una base sólida en:
 
 Estas tecnologías son mi herramienta diaria para crear interfaces limpias y funcionales.
 
----
 
 ## 📚 Frameworks que Estoy Aprendiendo
 Actualmente estoy inmerso en el aprendizaje de tecnologías modernas que me entusiasman:
@@ -46,7 +43,6 @@ Actualmente estoy inmerso en el aprendizaje de tecnologías modernas que me entu
 
 Cada una me abre nuevas puertas para construir mejores soluciones web.
 
----
 
 ## 🎯 Mi Pasión
 Me apasiona construir experiencias web que sean:
@@ -60,12 +56,9 @@ Me apasiona construir experiencias web que sean:
 ## 💡 Filosofía de Desarrollo
 Creo firmemente en el poder de **combinar creatividad y código** para resolver problemas de manera elegante y significativa.
 
----
-
 ## 🔥 Siempre Explorando
 Soy un desarrollador en constante evolución, explorando nuevas tecnologías y **empujando mis límites** para crecer tanto profesional como personalmente.
 
----
 
 > _"La mejor forma de predecir el futuro es crearlo."_
 
