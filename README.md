@@ -71,9 +71,9 @@ Soy un desarrollador en constante evolución, explorando nuevas tecnologías y *
 
 ### 🔗 Follow Me On
 
-[![Pinterest](https://img.shields.io/badge/Pinterest-red?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
+[![Pinterest](https://img.shields.io/badge/Pinterest-red?style=for-the-badge&logo=pinterest&logoColor=white)](https://mx.pinterest.com/J4cuXx/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jacuxxcreator1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-reynoso-jacuinde-247080335/)
 
 
 
