@@ -17,63 +17,73 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JacuX&style=flat-square&color=blue)
 
-# 🌟 Mi Camino como Desarrollador Web
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JacuXx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JacuXx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-## 🚀 Iniciando con Liquid y Shopify
-Comencé mi viaje dominando **Liquid**, el motor de plantillas de **Shopify**, creando experiencias personalizadas y escalables para e-commerce.
+###
 
-## 💻 Experiencia Técnica
-Tengo una base sólida en:
+<img align="right" height="150" src="https://media1.tenor.com/m/8ivHg9AN6ZQAAAAd/ayanokoji.gif"  />
 
-- **JavaScript**
-- **HTML**
-- **CSS**
+###
 
-Estas tecnologías son mi herramienta diaria para crear interfaces limpias y funcionales.
+<img align="right" height="150" src="https://media.tenor.com/-79OD_JuLa4AAAAi/pepe-pepe-mexico.gif"  />
 
+###
 
-## 📚 Frameworks que Estoy Aprendiendo
-Actualmente estoy inmerso en el aprendizaje de tecnologías modernas que me entusiasman:
+<img align="right" height="150" src="https://media1.tenor.com/m/YUzRkMOL-3EAAAAC/programming-computer-frog.gif"  />
 
-- ⚛️ **React**
-- 🌐 **Node.js**
-- 🔧 **Express**
-- 🌌 **Astro**
-- 🅰️ **Angular**
+###
 
-Cada una me abre nuevas puertas para construir mejores soluciones web.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="30" alt="bitbucket logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="30" alt="eslint logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="30" alt="firefox logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  />
+</div>
 
+###
 
-## 🎯 Mi Pasión
-Me apasiona construir experiencias web que sean:
+<div align="left">
+  <a href="https://www.instagram.com/aw.jacuxx/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="mailto:alan.jxx@tutamail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/alanrj-dev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-- Funcionales 🛠️  
-- Eficientes ⚡  
-- Hermosas ✨  
+###
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JacuXx/JacuXx/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JacuXx/JacuXx/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JacuXx/JacuXx/output/pacman-contribution-graph.svg">
+</picture>
 
-## 💡 Filosofía de Desarrollo
-Creo firmemente en el poder de **combinar creatividad y código** para resolver problemas de manera elegante y significativa.
-
-## 🔥 Siempre Explorando
-Soy un desarrollador en constante evolución, explorando nuevas tecnologías y **empujando mis límites** para crecer tanto profesional como personalmente.
-
-
-> _"La mejor forma de predecir el futuro es crearlo."_
-
-
-
-
-
-
----
-
-### 🔗 Follow Me On
-
-[![Pinterest](https://img.shields.io/badge/Pinterest-red?style=for-the-badge&logo=pinterest&logoColor=white)](https://mx.pinterest.com/J4cuXx/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jacuxxcreator1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-reynoso-jacuinde-247080335/)
-
-
-
+###
