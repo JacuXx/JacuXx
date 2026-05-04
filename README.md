@@ -24,6 +24,8 @@
 - I enjoy building clean, functional web experiences from idea to deployment
 - Reach me at: [alan.jxx@tutamail.com](mailto:alan.jxx@tutamail.com)
 
+<br clear="right" />
+
 ---
 
 ## Tech Stack
@@ -55,6 +57,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="30" alt="bitbucket" />
 </div>
+
+<br clear="right" />
 
 ---
 
@@ -89,11 +93,13 @@
   </a>
 </div>
 
+<br clear="right" />
+
 ---
 
 ## Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JacuXx&show_icons=true&count_private=true&theme=dracula&hide_border=false&cache_seconds=7200" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JacuXx&layout=compact&langs_count=6&theme=dracula&hide_border=false&cache_seconds=7200" height="150" alt="languages" />
+  <img src="https://streak-stats.demolab.com/?user=JacuXx&theme=dracula&hide_border=false" height="150" alt="streak stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JacuXx&theme=dracula" height="150" alt="languages" />
 </div>
